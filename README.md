@@ -1,5 +1,5 @@
 # Swatches
-Swatches for Magento 1.9.2.4
+Swatches per Magento 1.9.2.4
 
 
 Immagini sostitutive per lo swatches di Magento.
@@ -11,7 +11,7 @@ mv /your_path/media/wysiwyg/swatches /your_path/media/wysiwyg/swatches.old
 cp -R swatches /your_path/media/wysiwyg/
 
 
-Dare il chown del proprio webserver alla directory appena creata. Il PDF ed il file HTML è il pantone dei colori utilizzati.
+Dare il chown del proprio webserver (es: www-data) alla directory appena creata. Il PDF ed il file HTML è il pantone dei colori utilizzati.
 
 Negli settare gli attributi ricordarsi che in Admin non devono esserci spazi nei colori composti da più colori.
 
